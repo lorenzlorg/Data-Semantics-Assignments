@@ -1,0 +1,62 @@
+<http://dbpedia.org/resource/Due_Date>	<http://dbpedia.org/ontology/runtime>	"5700.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Puss_in_Boots_(2011_film)>	<http://dbpedia.org/ontology/budget>	"1.3E8"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/Puss_in_Boots_(2011_film)>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Zach_Galifianakis> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/property/name>	"The Hangover Part III: Original Motion Picture Soundtrack"@en .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Ed_Helms> .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/property/name>	"The Hangover"@en .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/John_Goodman> .
+<http://dbpedia.org/resource/Puss_in_Boots_(2011_film)>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Antonio_Banderas> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/Zach_Galifianakis>	<http://dbpedia.org/ontology/birthDate>	"1969-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Rosario_Dawson> .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Heather_Graham> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Justin_Bartha> .
+<http://dbpedia.org/resource/Due_Date>	<http://dbpedia.org/property/released>	"2010-11-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://dbpedia.org/property/name>	"The Lego Batman Movie"@en .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Melissa_McCarthy> .
+<http://dbpedia.org/resource/Due_Date>	<http://dbpedia.org/ontology/budget>	"6.5E7"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/Puss_in_Boots_(2011_film)>	<http://dbpedia.org/property/released>	"2011-10-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Michael_Cera> .
+<http://dbpedia.org/resource/Puss_in_Boots_(2011_film)>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/property/released>	"2013-05-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Puss_in_Boots_(2011_film)>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Billy_Bob_Thornton> .
+<http://dbpedia.org/resource/Zach_Galifianakis>	<http://dbpedia.org/property/spouse>	""@en .
+<http://dbpedia.org/resource/Zach_Galifianakis>	<http://dbpedia.org/property/spouse>	"Quinn Lundberg"@en .
+<http://dbpedia.org/resource/Puss_in_Boots_(2011_film)>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Salma_Hayek> .
+<http://dbpedia.org/resource/Puss_in_Boots_(2011_film)>	<http://dbpedia.org/property/name>	"Puss in Boots"@en .
+<http://dbpedia.org/resource/Due_Date>	<http://dbpedia.org/property/name>	"Due Date"@en .
+<http://dbpedia.org/resource/The_Hangover>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Zach_Galifianakis> .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/ontology/budget>	"3.5E7"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://dbpedia.org/ontology/budget>	"8.0E7"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/Zach_Galifianakis>	<http://dbpedia.org/property/spouse>	"2012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/property/name>	"The Hangover Part III"@en .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Zach_Galifianakis> .
+<http://dbpedia.org/resource/Due_Date>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Zach_Galifianakis> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/runtime>	"6000.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Jeffrey_Tambor> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Bradley_Cooper> .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/property/name>	"The Hangover: Original Motion Picture Soundtrack"@en .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Ken_Jeong> .
+<http://dbpedia.org/resource/Puss_in_Boots_(2011_film)>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Amy_Sedaris> .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Zach_Galifianakis> .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://dbpedia.org/property/name>	"The Lego Batman Movie: Original Motion Picture Soundtrack"@en .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://dbpedia.org/ontology/runtime>	"6240.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Due_Date>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Juliette_Lewis> .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/ontology/runtime>	"6000.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Bradley_Cooper> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Jeffrey_Tambor> .
+<http://dbpedia.org/resource/Due_Date>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Robert_Downey_Jr.> .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Ralph_Fiennes> .
+<http://dbpedia.org/resource/Puss_in_Boots_(2011_film)>	<http://dbpedia.org/ontology/runtime>	"5400.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Will_Arnett> .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/property/released>	"2009-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Ed_Helms> .
+<http://dbpedia.org/resource/Due_Date>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Michelle_Monaghan> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/budget>	"1.03E8"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/The_Hangover>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Justin_Bartha> .
+<http://dbpedia.org/resource/The_Hangover_Part_III>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Heather_Graham> .
+<http://dbpedia.org/resource/Due_Date>	<http://dbpedia.org/ontology/starring>	<http://dbpedia.org/resource/Jamie_Foxx> .
+<http://dbpedia.org/resource/The_Lego_Batman_Movie>	<http://dbpedia.org/property/released>	"2017-02-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Due_Date>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Film> .
