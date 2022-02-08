@@ -1,6 +1,6 @@
 # Data-Semantics-Assignments
 
-## Assignment 1
+## [Assignment 1](https://github.com/lorenzlorg/Data-Semantics-Assignments/tree/main/assignment%201)
 Submit and query DBpedia Endpoint on http://dbpedia.org/sparql
 
 Query DBpedia to find more information about your favorite actor / actress. (As actors may have been described using different properties and not all the queries below might have an answer for your favorite actor, please feel free to substitute a query with any query you are curious about. E.g., there might be no information in DBpedia to answer to query number 4 about the duration of the last film. You can substitute such query with another of your choice. For example: How old is your actor / actress ‘partner? Or How old is his / her older child?)
@@ -13,7 +13,7 @@ Query DBpedia to find more information about your favorite actor / actress. (As 
 
 Provided that you satisfy the above queries, you can create the RDF graph considering the results obtained from the above questions. You can create only one RDF graph, which will contain all the results of the above queries. So, in the same graph, you have to represent the answer of the queries for his / her age, films, the year of the latest film, the budget and the female actress in the last film he starred in. Consider it as the complete RDF graph that you should query in order to answer to the above questions. The scope of this part of the assignment is to evaluate your ability to draw an RDF graph (complying with the RDF graph symbolic).
 
-## Assignment 2
+## [Assignment 2](https://github.com/lorenzlorg/Data-Semantics-Assignments/tree/main/assignment%202)
 Modify the companies-geo.rdfs-owl-L2-2.owl ontology with Protégé by creating two ontologies as specified below.
 
 #### 1. companies-geo.rdfs-owl-L2-2-Your_Surname_clean.owl
@@ -38,7 +38,7 @@ Provided that you satisfy the above specifications, you can make any additional 
 #### 2. companies-geo.rdfs-owl-L2-2-Your_Surname_wrong.owl
 Modify the companies-geo.rdfs-owl-L2-2-Your_Surname_clean.owl ontology in such a way that either an inconsistency is derived or an unintended (or, counterintuitive, or unde- sirable) inference is drawn.
 
-## Assignment 3
+## [Assignment 3](https://github.com/lorenzlorg/Data-Semantics-Assignments/tree/main/assignment%203)
 Create and execute a pipeline in SILK to generate sameAs links between Google Adwords and a country of your choice (from Geonames).
 
 Create and execute to the best of your knowledge a pipeline using the SILK framework to generate sameAs links between Google Adwords (https://developers.google.com/adwords/api/docs/appendix/geo/geotargets-2020-03-03.csv) and the country of your choice from Geonames.
